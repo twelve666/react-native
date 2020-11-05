@@ -1,0 +1,8 @@
+
+export const UPDATE_LOGIN = 'UPDATE_LOGIN';
+
+export const UPDATE_USER_INFO = 'UPDATE_USER_INFO';
+
+export const UPDATE_FOOTER_TAB_BAR = 'UPDATE_FOOTER_TAB_BAR';
+
+export const UPDATE_LOGINOUT = 'UPDATE_LOGINOUT';
